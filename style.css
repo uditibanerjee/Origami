@@ -1,0 +1,16 @@
+
+           h1{
+               color:#afb234;
+           }
+           *{
+               border: solid;
+           }
+      .heading{
+          background-color: crimson;
+          display: flex;
+         justify-content: space-around;
+      }
+      .game{
+          background-color: darkmagenta;
+          
+      }
